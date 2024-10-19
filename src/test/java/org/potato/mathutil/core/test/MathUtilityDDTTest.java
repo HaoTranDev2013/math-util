@@ -36,7 +36,9 @@ class MathUtilityDDTTest {
                                 {3,6},
                                 {4,24},
                                 {5,120},
-                                {6,7208} };
+                                {6,720}
+
+        };
     }
     @ParameterizedTest
     @MethodSource("initRightArguments")
